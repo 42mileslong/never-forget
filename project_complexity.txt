@@ -1,0 +1,9 @@
+Never Forget Project Complexity
+A APCS Freeform Project
+Coded by Rafi Long
+
+===
+
+Project Complexity
+
+At it's current point, my project is very, very basic. And I use this word basic in the sense that you, Mr. Kuszmaul, instructed us in class. It is very basic because I've spent majority of my time trying to learn how to write android apps. In this pursuit, I have committed 5,181 lines of code, and so it isn't very suprising to learn that my project, at it's current point, is 600 lines. Most of these lines are auto-generated, but I've come quite a significant way in understand how they work and what they do. However, these lines are generally from .xml files, which don't contain branch points. Xml files determine what the layout of the app is going to look like, and for this reason is more similar to HTML than Java. However, I currently have 13 branch points, and 3 classes, though most of these only have stubs. I'm working on trying to configure the interface between my code and the Xmls to be understandible, and am still learning how to use the new Android IDE, called Android Studio. Once I have more accurately determined what my project complexity is going to be I would be very glad to send in a second one, as you recommended. My time recently has been filled with orienting myself with Android studio, and I have also spent a significant amount of time writing code for robotics, such as my tip calculator, which required learning rudimentary physics. Thanks for reading, and I hope to update you soon, definately by the Friday after Madera, as I will most likely be busy catching up in school. Thank you!
